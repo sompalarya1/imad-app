@@ -19,4 +19,9 @@ body {
 .img-medium {
     height: 200px;
 }
+.c{
+    color: #0000ff;
+    max-width:800px ;
+    font-family:sans-serif;
+}
 
