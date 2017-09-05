@@ -55,7 +55,7 @@ function createtemplate(data){
     </html>`;
     return htmlTemplate;
 }
-
+//Animatin of image
 var img = document.getElementById('madi');
 marginLeft=0;
 function moveRight(){
