@@ -38,9 +38,9 @@ function createtemplate(data){
           <body>
          <div><a href="">Home</a></div>
          <h3> Articlr one</h3>
-         <div>  $date </div>
+         <div>  ${date} </div>
          <div class="c">
-             $data
+             ${data}
              
          </div>
          
