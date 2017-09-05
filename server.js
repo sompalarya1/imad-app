@@ -8,7 +8,7 @@ var content= {
     title:'Article one',
    
     date:'5 sep 2017',
-    content: `<p> This is article one on imad course</p>
+    data: `<p> This is article one on imad course</p>
          <p> This is article one on imad course</p>
          <p> This is article one on imad course</p>`
 };
@@ -29,7 +29,7 @@ function createtemplate(data){
          <h3> Articlr one</h3>
          <div>  $date </div>
          <div class="c">
-             $content
+             $data
              
          </div>
          
