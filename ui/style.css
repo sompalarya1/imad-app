@@ -20,8 +20,15 @@ body {
     height: 200px;
 }
 .c{
-    color: #0000ff;
-    max-width:800px ;
+    color: #00d5ff;
+    max-width: 800px;
+    margin-top:50px;
+    margin-left:300px;
     font-family:sans-serif;
+    
+    
 }
+
+
+
 
