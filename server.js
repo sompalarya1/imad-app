@@ -84,8 +84,8 @@ app.get('/get-db',function(req,res){
             res.send(json.stringify(result));
         }
         
-    })
-})
+    });
+});
 
 
 
