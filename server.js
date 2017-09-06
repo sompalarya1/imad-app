@@ -74,7 +74,6 @@ function createtemplate(data){
 
 
 
-
 var pool =new pool(config);
 app.get('/get-db',function(req,res){
     pool.query('select *from article',function(err,result){
